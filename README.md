@@ -10,7 +10,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Built With
 
 * [phpMyAdmin](https://www.phpmyadmin.net/) - The web framework used
-Feeds
 
 ## Versions
 
