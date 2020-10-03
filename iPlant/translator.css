@@ -1,0 +1,28 @@
+#sq {
+  display: none;
+}
+
+.button_lang {
+  background-color: #f6f6f6;
+  color: #FFF;
+  padding: 6px 6px;
+  border-radius: 5px;
+	
+  -webkit-transition: background-color .3s ease-in-out;
+  -moz-transition: background-color .3s ease-in-out;
+  -o-transition: background-color .3s ease-in-out;
+  -ms-transition: background-color .3s ease-in-out;
+  transition: background-color .3s ease-in-out;
+}
+.button_lang:hover, .current_lang {
+  background-color: #6aaf08;	
+  -webkit-transition: background-color .3s ease-in-out;
+  -moz-transition: background-color .3s ease-in-out;
+  -o-transition: background-color .3s ease-in-out;
+  -ms-transition: background-color .3s ease-in-out;
+  transition: background-color .3s ease-in-out;
+}
+ul li {
+  width: auto;
+  display: inline;
+}
