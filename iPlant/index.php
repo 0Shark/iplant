@@ -331,7 +331,7 @@ $count = 1;
 
             echo "<td style='border: 1px solid #ddd; padding:8px;background-color: #7ac90a; color: white;'>" . $count . ")</td>";
 
-            echo "<td style='border: 1px solid #ddd; padding:8px;'>" . $row['donor'] . "$</td>";
+            echo "<td style='border: 1px solid #ddd; padding:8px;'>" . $row['donor'] . "</td>";
 
             echo "<td style='border: 1px solid #ddd; padding:8px;'>" . $row['username'] . "</td>";
 
