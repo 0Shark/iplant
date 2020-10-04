@@ -27,6 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Deploy Notes
 
 * To deploy the project on a live system make sure to change all the "root" => "YOUR DATABASE USERNAME" and empty password fiels "" => "YOUR DATABASE PASSWORD"
+* MAke sure you create the two databases first: register and image_upload then import the tables from the SQL files inside iPlant, into the phpMyAdmin
 * Make sure your versions match the ones at Versions tab
 * Make sure your website has an SSL certificate (otherwise QR scanner funcionality wont work)
 
