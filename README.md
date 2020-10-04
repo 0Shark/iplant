@@ -1,7 +1,7 @@
 # iPlant
 ![intro.jpg not loaded](https://github.com/0Shark/iplant/blob/main/imgs/intro.jpg?raw=true)
 
-iPlant is a project about helping the environment by planting trees. We can make planting trees even more fun with out application. You can earn points, personalize your trees at the iPlant website and more other cool functionalities. 
+iPlant is a project about helping the environment by planting trees. We can make planting trees even more fun with our application. You can earn points, personalize your trees at the iPlant website and more other cool functionalities. 
 
 ## Getting Started
 
@@ -23,6 +23,12 @@ These instructions will get you a copy of the project up and running on your loc
 * Elmer Dema - Web Developer
 * Elma Dema - Presenter
 * Irhad Halili - Graphic Designer
+
+## Deploy Notes
+
+* To deploy the project on a live system make sure to change all the "root" => "YOUR DATABASE USERNAME" and empty password fiels "" => "YOUR DATABASE PASSWORD"
+* Make sure your versions match the ones at Versions tab
+* Make sure your website has an SSL certificate (otherwise QR scanner funcionality wont work)
 
 ## License
 
