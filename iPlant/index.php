@@ -55,6 +55,52 @@ include("auth.php"); //auth.php  security?>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
+    
+
+<style type="text/css">
+
+#myBtn {
+
+  display: none;
+
+  position: fixed;
+
+  bottom: 20px;
+
+  right: 30px;
+
+  z-index: 99;
+
+  font-size: 18px;
+
+  border: none;
+
+  outline: none;
+
+  background-color: #333333;
+
+  color: white;
+
+  cursor: pointer;
+
+  padding: 15px;
+
+  border-radius: 4px;
+
+}
+
+
+
+#myBtn:hover {
+
+  background-color: #d3f000;
+
+}
+
+</style>
+
+<button onclick="topFunction()" id="myBtn" title="Info"><a href="https://climate.nasa.gov/"><img src="img/info.png" width="40px" height="40px"> CO2 in air now is 414 parts/million</a></button>
+    
 <!-- Navigation
 
     ==========================================-->
@@ -239,7 +285,7 @@ include("auth.php"); //auth.php  security?>
 
 <!--Donators leaderboard-->
 
-      <h2>Donators leaderboard:</h2>
+      <h2>iPlant leaderboard:</h2>
 
       <hr>
 
