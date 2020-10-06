@@ -7,7 +7,11 @@ iPlant is a project about helping the environment by planting trees. We can make
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Built With
+## Demos
+* [iPlant.tk](https://iplant.tk)
+* [iPlant2020.co](https://iplant2020.co)
+
+## DB framework
 
 * [phpMyAdmin](https://www.phpmyadmin.net/) - The web framework used
 
