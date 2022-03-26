@@ -8,8 +8,7 @@ iPlant is a project about helping the environment by planting trees. We can make
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Demos
-* [iPlant.tk](https://iplant.tk)
-* [iPlant2020.co](https://iplant2020.co)
+* [iPlant](https://iplant2020.000webhostapp.com)
 
 ## DB framework
 
@@ -23,10 +22,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-* Juled Zaganjori - Web Developer 
-* Elmer Dema - Web Developer
-* Elma Dema - Presenter
-* Irhad Halili - Graphic Designer
+* Juled Zaganjori
+* Elmer Dema
+* Juled Haka
 
 ## Deploy Notes
 
