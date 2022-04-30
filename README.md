@@ -24,7 +24,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 * Juled Zaganjori
 * Elmer Dema
-* Juled Haka
 
 ## Deploy Notes
 
